@@ -1,0 +1,88 @@
+{
+  "pagination": {
+    "before":"localhost/res2.json",
+    "after": null
+  },
+  "results":[
+    {
+      "ID":65468,
+      "type":"organization",
+      "title":"Mike's Sandwiches",
+      "location":"San Francisco",
+      "logo":"localhost/logo.png",
+      "description":"Ya know... Sandwiches and all that"
+    },
+    {
+      "ID":35343,
+      "type":"organization",
+      "title":"Rob's Sandwiches",
+      "location":"San Francisco",
+      "logo":"localhost/logo.png",
+      "description":"Ya know... Sandwiches and all that"
+    },
+    {
+      "ID":22452,
+      "type":"organization",
+      "title":"Tam's Sandwiches",
+      "location":"San Francisco",
+      "logo":"localhost/logo.png",
+      "description":"Ya know... Sandwiches and all that"
+    },
+    {
+      "ID":22242,
+      "type":"organization",
+      "title":"Bryan's Sandwiches",
+      "location":"San Francisco",
+      "logo":"localhost/logo.png",
+      "description":"Ya know... Sandwiches and all that"
+    },
+    {
+      "ID":78963,
+      "type":"organization",
+      "title":"Jimmy's Sandwiches",
+      "location":"San Francisco",
+      "logo":"localhost/logo.png",
+      "description":"Ya know... Sandwiches and all that"
+    },
+    {
+      "ID":77234,
+      "type":"organization",
+      "title":"Tommy's Sandwiches",
+      "location":"San Francisco",
+      "logo":"localhost/logo.png",
+      "description":"Ya know... Sandwiches and all that"
+    },
+    {
+      "ID":55765,
+      "type":"organization",
+      "title":"Carla's Sandwiches",
+      "location":"San Francisco",
+      "logo":"localhost/logo.png",
+      "description":"Ya know... Sandwiches and all that"
+    },
+    {
+      "ID":88889,
+      "type":"organization",
+      "title":"Cass's Sandwiches",
+      "location":"San Francisco",
+      "logo":"localhost/logo.png",
+      "description":"Ya know... Sandwiches and all that"
+    },
+    {
+      "ID":93393,
+      "type":"organization",
+      "title":"Kev's Sandwiches",
+      "location":"San Francisco",
+      "logo":"localhost/logo.png",
+      "description":"Ya know... Sandwiches and all that"
+    },
+    {
+      "ID":48111,
+      "type":"organization",
+      "title":"Timmy's Sandwiches",
+      "location":"San Francisco",
+      "logo":"localhost/logo.png",
+      "description":"Ya know... Sandwiches and all that"
+    }
+  ]
+}

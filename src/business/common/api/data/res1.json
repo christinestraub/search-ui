@@ -1,0 +1,88 @@
+{
+  "pagination":{
+    "before":null,
+    "after":"localhost/res2.json"
+  },
+  "results":[
+    {
+      "ID":15231,
+      "type":"organization",
+      "title":"Ike's Sandwiches",
+      "location":"San Francisco",
+      "logo":"localhost/logo.png",
+      "description":"Ya know... Sandwiches and all that"
+    },
+    {
+      "ID":67881,
+      "type":"organization",
+      "title":"Bob's Sandwiches",
+      "location":"San Francisco",
+      "logo":"localhost/logo.png",
+      "description":"Ya know... Sandwiches and all that"
+    },
+    {
+      "ID":94446,
+      "type":"organization",
+      "title":"Sam's Sandwiches",
+      "location":"San Francisco",
+      "logo":"localhost/logo.png",
+      "description":"Ya know... Sandwiches and all that"
+    },
+    {
+      "ID":67777,
+      "type":"organization",
+      "title":"Ryan's Sandwiches",
+      "location":"San Francisco",
+      "logo":"localhost/logo.png",
+      "description":"Ya know... Sandwiches and all that"
+    },
+    {
+      "ID":13131,
+      "type":"organization",
+      "title":"Jim's Sandwiches",
+      "location":"San Francisco",
+      "logo":"localhost/logo.png",
+      "description":"Ya know... Sandwiches and all that"
+    },
+    {
+      "ID":24243,
+      "type":"organization",
+      "title":"Tom's Sandwiches",
+      "location":"San Francisco",
+      "logo":"localhost/logo.png",
+      "description":"Ya know... Sandwiches and all that"
+    },
+    {
+      "ID":77689,
+      "type":"organization",
+      "title":"Carl's Sandwiches",
+      "location":"San Francisco",
+      "logo":"localhost/logo.png",
+      "description":"Ya know... Sandwiches and all that"
+    },
+    {
+      "ID":77688,
+      "type":"organization",
+      "title":"Cassie's Sandwiches",
+      "location":"San Francisco",
+      "logo":"localhost/logo.png",
+      "description":"Ya know... Sandwiches and all that"
+    },
+    {
+      "ID":65478,
+      "type":"organization",
+      "title":"Kevin's Sandwiches",
+      "location":"San Francisco",
+      "logo":"localhost/logo.png",
+      "description":"Ya know... Sandwiches and all that"
+    },
+    {
+      "ID":95184,
+      "type":"organization",
+      "title":"Tim's Sandwiches",
+      "location":"San Francisco",
+      "logo":"localhost/logo.png",
+      "description":"Ya know... Sandwiches and all that"
+    }
+  ]
+}

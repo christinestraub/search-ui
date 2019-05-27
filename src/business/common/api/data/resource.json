@@ -1,0 +1,35 @@
+{
+  "total":80,
+  "allocations":[
+    {
+      "ID":"98273",
+      "Title":"Ike's Sandwiches",
+      "Value":10,
+      "ValType":"num"
+    },
+    {
+      "ID":"23876",
+      "Title":"Mike's Sandwiches",
+      "Value":20,
+      "ValType":"per"
+    },
+    {
+      "ID":"56564",
+      "Title":"Tom's Sandwiches",
+      "Value":20,
+      "ValType":"num"
+    },
+    {
+      "ID":"37888",
+      "Title":"Carl's Sandwiches",
+      "Value":10,
+      "ValType":"per"
+    },
+    {
+      "ID":"98273",
+      "Title":"Ike's Sandwiches",
+      "Value":40,
+      "ValType":"num"
+    }
+  ]
+}

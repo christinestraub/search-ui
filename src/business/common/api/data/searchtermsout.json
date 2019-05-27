@@ -1,0 +1,6 @@
+{
+  "searchterms":[
+    {"type":"location","term":"San Francisco"},
+    {"type":"cause","term":"Sandwich awareness"}
+  ]
+}
